@@ -1,0 +1,194 @@
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.ViewModel.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.ViewModel.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.ViewModel.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.ViewModel.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.pdb
+C:\MG\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.csprojResolveAssemblyReference.cache
+C:\MG\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.dll
+C:\MG\AspxSoft\Aspx.Business\bin\Debug\Aspx.Business.pdb
+C:\MG\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.dll
+C:\MG\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.dll
+C:\MG\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.dll
+C:\MG\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.dll
+C:\MG\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.dll
+C:\MG\AspxSoft\Aspx.Business\bin\Debug\log4net.dll
+C:\MG\AspxSoft\Aspx.Business\bin\Debug\ThoughtWorks.QRCode.dll
+C:\MG\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.dll
+C:\MG\AspxSoft\Aspx.Business\bin\Debug\Aspx.Common.pdb
+C:\MG\AspxSoft\Aspx.Business\bin\Debug\Aspx.DataAccessBase.pdb
+C:\MG\AspxSoft\Aspx.Business\bin\Debug\Aspx.Factory.pdb
+C:\MG\AspxSoft\Aspx.Business\bin\Debug\Aspx.IDAL.pdb
+C:\MG\AspxSoft\Aspx.Business\bin\Debug\Aspx.Model.pdb
+C:\MG\AspxSoft\Aspx.Business\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\MG\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.dll
+C:\MG\AspxSoft\Aspx.Business\obj\Debug\Aspx.Business.pdb

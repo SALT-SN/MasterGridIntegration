@@ -1,0 +1,134 @@
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.ViewModel.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.IDAL\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.IDAL\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.ViewModel.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.ViewModel.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.IDAL\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.IDAL\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.ViewModel.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.IDAL\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.IDAL\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.IDAL\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.IDAL\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.IDAL\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.IDAL\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.pdb
+C:\MG\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.csprojResolveAssemblyReference.cache
+C:\MG\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.dll
+C:\MG\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.IDAL.pdb
+C:\MG\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.dll
+C:\MG\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.dll
+C:\MG\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.dll
+C:\MG\AspxSoft\Aspx.IDAL\bin\Debug\log4net.dll
+C:\MG\AspxSoft\Aspx.IDAL\bin\Debug\ThoughtWorks.QRCode.dll
+C:\MG\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Model.pdb
+C:\MG\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.Common.pdb
+C:\MG\AspxSoft\Aspx.IDAL\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\MG\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.dll
+C:\MG\AspxSoft\Aspx.IDAL\obj\Debug\Aspx.IDAL.pdb

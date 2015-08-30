@@ -1,0 +1,508 @@
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\WebPortalAdmin.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\WebPortalAdmin.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Antlr3.Runtime.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.Core.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\EntityFramework.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Newtonsoft.Json.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Net.Http.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Net.Http.WebRequest.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.Helpers.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.Mvc.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.Optimization.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.Razor.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\WebGrease.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\WebMatrix.Data.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\WebMatrix.WebData.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\EntityFramework.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Newtonsoft.Json.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Net.Http.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Net.Http.WebRequest.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.Helpers.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.Mvc.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.Razor.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\WebMatrix.Data.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\WebMatrix.WebData.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.Core.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.Business.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.Model.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.Factory.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\log4net.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.Business.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.Model.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.IDAL.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.Factory.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccess.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccessBase.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccess.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccessBase.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\WebPortalAdmin.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\WebPortalAdmin.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Antlr3.Runtime.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.Business.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccess.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.Model.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.Core.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\EntityFramework.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Newtonsoft.Json.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Net.Http.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Net.Http.WebRequest.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.Helpers.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.Mvc.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.Optimization.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.Razor.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\WebGrease.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\WebMatrix.Data.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\WebMatrix.WebData.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.IDAL.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.Factory.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\log4net.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccessBase.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.Business.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccess.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.Model.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\EntityFramework.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Newtonsoft.Json.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Net.Http.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Net.Http.WebRequest.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.Helpers.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.Mvc.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.Razor.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\WebMatrix.Data.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\WebMatrix.WebData.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.Core.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.IDAL.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.Factory.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccessBase.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\WebPortalAdmin.dll.config
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\WebPortalAdmin.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\WebPortalAdmin.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Aspx.Business.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Aspx.Common.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccess.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Aspx.Model.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.Core.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Net.Http.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Net.Http.WebRequest.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\WebMatrix.Data.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\WebMatrix.WebData.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Aspx.IDAL.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Aspx.Factory.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\log4net.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccessBase.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Aspx.Business.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccess.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Aspx.Model.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Net.Http.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Net.Http.WebRequest.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\WebMatrix.Data.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\WebMatrix.WebData.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.Core.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Aspx.IDAL.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Aspx.Factory.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccessBase.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\WebPortalAdmin.dll.config
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\WebPortalAdmin.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\WebPortalAdmin.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Aspx.Business.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Aspx.Common.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccess.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Aspx.Model.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.Core.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Net.Http.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Net.Http.WebRequest.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\WebMatrix.Data.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\WebMatrix.WebData.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Aspx.IDAL.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Aspx.Factory.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\log4net.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccessBase.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Aspx.Business.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccess.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Aspx.Model.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Net.Http.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Net.Http.WebRequest.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\WebMatrix.Data.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\WebMatrix.WebData.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.Core.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Aspx.IDAL.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Aspx.Factory.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccessBase.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.pdb
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\WebPortalAdmin.dll.config
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\WebPortalAdmin.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\WebPortalAdmin.pdb
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Aspx.Business.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Aspx.Common.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccess.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Aspx.Model.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.Core.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Net.Http.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Net.Http.WebRequest.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\WebMatrix.Data.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\WebMatrix.WebData.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Aspx.IDAL.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Aspx.Factory.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\log4net.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccessBase.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Aspx.Business.pdb
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccess.pdb
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Aspx.Model.pdb
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Net.Http.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Net.Http.WebRequest.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\WebMatrix.Data.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\WebMatrix.WebData.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.Core.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Aspx.IDAL.pdb
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Aspx.Factory.pdb
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccessBase.pdb
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.dll
+C:\Users\Administrator\Desktop\MG\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.pdb
+C:\MG\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.csprojResolveAssemblyReference.cache
+C:\MG\AspxSoft\WebPortalAdmin\bin\WebPortalAdmin.dll.config
+C:\MG\AspxSoft\WebPortalAdmin\bin\WebPortalAdmin.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\WebPortalAdmin.pdb
+C:\MG\AspxSoft\WebPortalAdmin\bin\Antlr3.Runtime.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\Aspx.Business.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\Aspx.Common.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccess.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\Aspx.Model.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.AspNet.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.Core.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\EntityFramework.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\Newtonsoft.Json.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Net.Http.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Net.Http.Formatting.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Net.Http.WebRequest.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Helpers.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Http.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Http.WebHost.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Mvc.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Optimization.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Razor.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Razor.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\WebGrease.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\WebMatrix.Data.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\WebMatrix.WebData.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\Aspx.IDAL.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\Aspx.Factory.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\log4net.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\ThoughtWorks.QRCode.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccessBase.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\Aspx.DapperAccessBase.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\Aspx.Business.pdb
+C:\MG\AspxSoft\WebPortalAdmin\bin\Aspx.Common.pdb
+C:\MG\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccess.pdb
+C:\MG\AspxSoft\WebPortalAdmin\bin\Aspx.Model.pdb
+C:\MG\AspxSoft\WebPortalAdmin\bin\EntityFramework.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\Newtonsoft.Json.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Net.Http.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Net.Http.Formatting.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Net.Http.WebRequest.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Helpers.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Http.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Http.WebHost.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Mvc.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.Razor.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\System.Web.WebPages.Razor.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\WebMatrix.Data.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\WebMatrix.WebData.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.AspNet.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.Core.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OAuth.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\MG\AspxSoft\WebPortalAdmin\bin\Aspx.IDAL.pdb
+C:\MG\AspxSoft\WebPortalAdmin\bin\Aspx.Factory.pdb
+C:\MG\AspxSoft\WebPortalAdmin\bin\Aspx.DataAccessBase.pdb
+C:\MG\AspxSoft\WebPortalAdmin\bin\Aspx.DapperAccessBase.pdb
+C:\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\EntityFramework.resources.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Net.Http.resources.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Http.resources.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\MG\AspxSoft\WebPortalAdmin\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\MG\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.dll
+C:\MG\AspxSoft\WebPortalAdmin\obj\Debug\WebPortalAdmin.pdb

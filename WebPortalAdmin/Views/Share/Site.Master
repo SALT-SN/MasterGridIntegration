@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta name="viewport" content="width=device-width" />
+    <title>Master Grid API</title>
+    <!--引用资源-->
+    <link href="~/Content/bootstrap/CSS/bootstrap.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap/CSS/font.css" rel="stylesheet" type="text/css" />
+    <!--引用资源-->
+    <script src="../Content/bootstrap/JS/jquery.min.js" type="text/javascript"></script>
+    <script src="../Content/bootstrap/JS/bootstrap.js" type="text/javascript"></script>
+    <!--插件资源-->
+    <script src="../Content/bootstrap/JS/parsley.min.js" type="text/javascript" charset="gbk"></script>
+    <script src="../Content/bootstrap/JS/parsley.extend.js" type="text/javascript" charset="gbk"></script>
+    <script src="../Content/bootstrap/JS/bootbox.js" type="text/javascript" charset="gbk"></script>
+    <asp:ContentPlaceHolder ID="UrlContent" runat="server" />
+</head>
+<body>
+    <div>
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+</body>
+</html>

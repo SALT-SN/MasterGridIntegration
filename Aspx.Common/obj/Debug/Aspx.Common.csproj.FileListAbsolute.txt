@@ -1,0 +1,62 @@
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Common\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Common\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Common\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Common\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Common\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Common\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Common\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Common\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Common\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Common\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Common\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Common\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Common\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Common\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Common\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Common\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.pdb
+C:\MG\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.dll
+C:\MG\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.pdb
+C:\MG\AspxSoft\Aspx.Common\bin\Debug\log4net.dll
+C:\MG\AspxSoft\Aspx.Common\bin\Debug\ThoughtWorks.QRCode.dll
+C:\MG\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.csprojResolveAssemblyReference.cache
+C:\MG\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.dll
+C:\MG\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.pdb

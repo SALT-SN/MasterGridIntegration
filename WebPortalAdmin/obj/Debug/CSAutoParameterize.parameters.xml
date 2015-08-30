@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="WriteConnectionString-Web.config Connection String" description="WriteConnectionString Connection String used in web.config by the application to access the database." defaultValue="Server=.;DataBase=learnSystemDev;Integrated Security=sspi;Pooling=true;Max Pool Size=40000;Min Pool Size=0;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\MG\\AspxSoft\\WebPortalAdmin\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='WriteConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="ReadConnectionString-Web.config Connection String" description="ReadConnectionString Connection String used in web.config by the application to access the database." defaultValue="Server=.;DataBase=learnSystemDev;Integrated Security=sspi;Pooling=true;Max Pool Size=40000;Min Pool Size=0;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\MG\\AspxSoft\\WebPortalAdmin\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ReadConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="DefaultConnection_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\MG\\AspxSoft\\WebPortalAdmin\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

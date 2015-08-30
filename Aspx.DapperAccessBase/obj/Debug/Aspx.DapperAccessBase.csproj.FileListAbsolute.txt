@@ -1,0 +1,99 @@
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.DapperAccessBase\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.DapperAccessBase\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\项目\IWill项目\源代码\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Common.Logging.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.DapperAccessBase\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.DapperAccessBase\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\平台代码\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Common.Logging.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.DapperAccessBase\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.DapperAccessBase\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Common.Logging.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.DapperAccessBase\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.DapperAccessBase\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\AspxSoft\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Common.Logging.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.DapperAccessBase\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.DapperAccessBase\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Common.Logging.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Common.Logging.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\bin\Debug\log4net.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.pdb
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.csprojResolveAssemblyReference.cache
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.dll
+C:\Users\GomritSoft\Desktop\项目\learnSystemDev\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Common.Logging.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.DapperAccessBase\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.DapperAccessBase\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\learnSystemDev2\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Common.Logging.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.DapperAccessBase\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.DapperAccessBase\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.pdb
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.dll
+C:\Users\Administrator\Desktop\learnSystemDev2 - 副本\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.pdb
+C:\MG\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.csprojResolveAssemblyReference.cache
+C:\MG\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.dll
+C:\MG\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.pdb
+C:\MG\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.dll
+C:\MG\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Common.Logging.dll
+C:\MG\AspxSoft\Aspx.DapperAccessBase\bin\Debug\log4net.dll
+C:\MG\AspxSoft\Aspx.DapperAccessBase\bin\Debug\ThoughtWorks.QRCode.dll
+C:\MG\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.pdb
+C:\MG\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.dll
+C:\MG\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.pdb

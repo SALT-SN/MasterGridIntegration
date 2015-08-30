@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6DF7433C-EAE9-4ADA-9C0F-64326F2B25CF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Aspx.Business</RootNamespace>
+    <AssemblyName>Aspx.Business</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BllBase.cs" />
+    <Compile Include="BllExample.cs" />
+    <Compile Include="BllOption.cs" />
+    <Compile Include="BllLMRec.cs" />
+    <Compile Include="BllLM.cs" />
+    <Compile Include="BllQuestion.cs" />
+    <Compile Include="BllTestResult.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Aspx.Common\Aspx.Common.csproj">
+      <Project>{A6B494E6-7B95-486E-913A-602D7FF475D8}</Project>
+      <Name>Aspx.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Aspx.DataAccessBase\Aspx.DataAccessBase.csproj">
+      <Project>{C9047A67-4BE1-4967-A2BC-10F82A211085}</Project>
+      <Name>Aspx.DataAccessBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Aspx.Factory\Aspx.Factory.csproj">
+      <Project>{D9FE440C-4A6F-4AC3-A7CC-9E443E301022}</Project>
+      <Name>Aspx.Factory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Aspx.IDAL\Aspx.IDAL.csproj">
+      <Project>{847010A7-9EBE-4206-B75D-A8FDEEFBED4C}</Project>
+      <Name>Aspx.IDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Aspx.Model\Aspx.Model.csproj">
+      <Project>{D8D1450F-BB50-49CE-BF13-4563DF593356}</Project>
+      <Name>Aspx.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
