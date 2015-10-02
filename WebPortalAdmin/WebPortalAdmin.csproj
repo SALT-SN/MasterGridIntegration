@@ -428,6 +428,7 @@
     <Content Include="Views\Home\DataSet1.xsc">
       <DependentUpon>DataSet1.xsd</DependentUpon>
     </Content>
+    <None Include="Properties\PublishProfiles\DeployIIS.pubxml" />
     <None Include="Views\Home\DataSet1.xsd">
       <SubType>Designer</SubType>
       <Generator>MSDataSetGenerator</Generator>

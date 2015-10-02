@@ -60,3 +60,10 @@ C:\MG\AspxSoft\Aspx.Common\bin\Debug\ThoughtWorks.QRCode.dll
 C:\MG\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.csprojResolveAssemblyReference.cache
 C:\MG\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.dll
 C:\MG\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Common\bin\Debug\Aspx.Common.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Common\bin\Debug\log4net.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Common\bin\Debug\ThoughtWorks.QRCode.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.csprojResolveAssemblyReference.cache
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Common\obj\Debug\Aspx.Common.pdb

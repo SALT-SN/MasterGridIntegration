@@ -97,3 +97,13 @@ C:\MG\AspxSoft\Aspx.DapperAccessBase\bin\Debug\ThoughtWorks.QRCode.dll
 C:\MG\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.pdb
 C:\MG\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.dll
 C:\MG\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.DapperAccessBase.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Common.Logging.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DapperAccessBase\bin\Debug\log4net.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DapperAccessBase\bin\Debug\ThoughtWorks.QRCode.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DapperAccessBase\bin\Debug\Aspx.Common.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.csprojResolveAssemblyReference.cache
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DapperAccessBase\obj\Debug\Aspx.DapperAccessBase.pdb

@@ -1,0 +1,7 @@
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Common\bin\Release\Aspx.Common.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Common\bin\Release\Aspx.Common.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Common\bin\Release\log4net.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Common\bin\Release\ThoughtWorks.QRCode.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Common\obj\Release\Aspx.Common.csprojResolveAssemblyReference.cache
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Common\obj\Release\Aspx.Common.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Common\obj\Release\Aspx.Common.pdb

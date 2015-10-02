@@ -1,0 +1,17 @@
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\bin\Release\Aspx.DataAccess.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\bin\Release\Aspx.DataAccess.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\bin\Release\Aspx.Common.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\bin\Release\Aspx.DapperAccessBase.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\bin\Release\Aspx.DataAccessBase.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\bin\Release\Aspx.IDAL.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\bin\Release\Aspx.Model.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\bin\Release\log4net.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\bin\Release\ThoughtWorks.QRCode.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\bin\Release\Aspx.Common.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\bin\Release\Aspx.DapperAccessBase.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\bin\Release\Aspx.DataAccessBase.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\bin\Release\Aspx.IDAL.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\bin\Release\Aspx.Model.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\obj\Release\Aspx.DataAccess.csprojResolveAssemblyReference.cache
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\obj\Release\Aspx.DataAccess.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccess\obj\Release\Aspx.DataAccess.pdb

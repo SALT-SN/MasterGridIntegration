@@ -108,3 +108,14 @@ C:\MG\AspxSoft\Aspx.DataAccessBase\bin\Debug\Aspx.Common.pdb
 C:\MG\AspxSoft\Aspx.DataAccessBase\bin\Debug\Aspx.DapperAccessBase.pdb
 C:\MG\AspxSoft\Aspx.DataAccessBase\obj\Debug\Aspx.DataAccessBase.dll
 C:\MG\AspxSoft\Aspx.DataAccessBase\obj\Debug\Aspx.DataAccessBase.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccessBase\bin\Debug\Aspx.DataAccessBase.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccessBase\bin\Debug\Aspx.DataAccessBase.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccessBase\bin\Debug\Aspx.Common.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccessBase\bin\Debug\Aspx.DapperAccessBase.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccessBase\bin\Debug\log4net.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccessBase\bin\Debug\ThoughtWorks.QRCode.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccessBase\bin\Debug\Aspx.Common.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccessBase\bin\Debug\Aspx.DapperAccessBase.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccessBase\obj\Debug\Aspx.DataAccessBase.csprojResolveAssemblyReference.cache
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccessBase\obj\Debug\Aspx.DataAccessBase.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.DataAccessBase\obj\Debug\Aspx.DataAccessBase.pdb

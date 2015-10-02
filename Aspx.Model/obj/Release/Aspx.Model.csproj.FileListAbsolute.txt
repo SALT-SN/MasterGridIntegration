@@ -1,0 +1,11 @@
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\bin\Release\Aspx.Model.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\bin\Release\Aspx.Model.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\bin\Release\Aspx.Common.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\bin\Release\Aspx.DapperAccessBase.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\bin\Release\log4net.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\bin\Release\ThoughtWorks.QRCode.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\bin\Release\Aspx.Common.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\bin\Release\Aspx.DapperAccessBase.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\obj\Release\Aspx.Model.csprojResolveAssemblyReference.cache
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\obj\Release\Aspx.Model.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\obj\Release\Aspx.Model.pdb

@@ -112,3 +112,14 @@ C:\MG\AspxSoft\Aspx.Model\bin\Debug\Aspx.Common.pdb
 C:\MG\AspxSoft\Aspx.Model\bin\Debug\Aspx.DapperAccessBase.pdb
 C:\MG\AspxSoft\Aspx.Model\obj\Debug\Aspx.Model.dll
 C:\MG\AspxSoft\Aspx.Model\obj\Debug\Aspx.Model.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\bin\Debug\Aspx.Model.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\bin\Debug\Aspx.Model.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\bin\Debug\Aspx.Common.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\bin\Debug\Aspx.DapperAccessBase.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\bin\Debug\log4net.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\bin\Debug\ThoughtWorks.QRCode.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\bin\Debug\Aspx.Common.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\bin\Debug\Aspx.DapperAccessBase.pdb
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\obj\Debug\Aspx.Model.csprojResolveAssemblyReference.cache
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\obj\Debug\Aspx.Model.dll
+D:\FinalVersionofMasterGrid\AspxSoft\Aspx.Model\obj\Debug\Aspx.Model.pdb

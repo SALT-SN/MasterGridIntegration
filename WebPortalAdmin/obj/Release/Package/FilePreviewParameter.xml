@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/SALT_MG" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\FinalVersionofMasterGrid\\AspxSoft\\WebPortalAdmin\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\FinalVersionofMasterGrid\\AspxSoft\\WebPortalAdmin\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Add write permission to App_Data Folder" description="Add write permission to App_Data folder" value="Default Web Site/SALT_MG/App_Data" tags="Hidden">
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\FinalVersionofMasterGrid\\AspxSoft\\WebPortalAdmin\\obj\\Release\\Package\\PackageTmp\\App_Data$" />
+  </parameter>
+  <parameter name="ReadConnectionString-Web.config Connection String" description="" value="Server=localhost;DataBase=learnSystemMVC;Integrated Security=sspi;Pooling=true;Max Pool Size=40000;Min Pool Size=0;" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\FinalVersionofMasterGrid\\AspxSoft\\WebPortalAdmin\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ReadConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="WriteConnectionString-Web.config Connection String" description="" value="Server=localhost;DataBase=learnSystemMVC;Integrated Security=sspi;Pooling=true;Max Pool Size=40000;Min Pool Size=0;" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\FinalVersionofMasterGrid\\AspxSoft\\WebPortalAdmin\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='WriteConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="learnSystemDevConnectionString-Web.config Connection String" description="learnSystemDevConnectionString Connection String used in web.config by the application to access the database." value="Data Source=localhost;Initial Catalog=learnSystemMVC;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\FinalVersionofMasterGrid\\AspxSoft\\WebPortalAdmin\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='learnSystemDevConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
