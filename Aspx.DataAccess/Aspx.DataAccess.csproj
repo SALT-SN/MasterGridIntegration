@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="BaseDAL.cs" />
     <Compile Include="ExampleDAL.cs" />
+    <Compile Include="LikeDAL.cs" />
     <Compile Include="OptionDAL.cs" />
     <Compile Include="QuestionDAL.cs" />
     <Compile Include="LMRecDAL.cs" />

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{C4A77372-D618-49E5-8ED2-7328D4E3C03C}"
 EndProject
@@ -32,48 +32,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPortalAdmin", "WebPortalAdmin\WebPortalAdmin.csproj", "{9A2E9E2E-481D-4933-9B4E-F5BD0C75F49B}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 10
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://salt.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Aspx.Business\\Aspx.Business.csproj
-		SccProjectTopLevelParentUniqueName1 = Aspx.sln
-		SccProjectName1 = Aspx.Business
-		SccLocalPath1 = Aspx.Business
-		SccProjectUniqueName2 = Aspx.Common\\Aspx.Common.csproj
-		SccProjectTopLevelParentUniqueName2 = Aspx.sln
-		SccProjectName2 = Aspx.Common
-		SccLocalPath2 = Aspx.Common
-		SccProjectUniqueName3 = Aspx.DapperAccessBase\\Aspx.DapperAccessBase.csproj
-		SccProjectTopLevelParentUniqueName3 = Aspx.sln
-		SccProjectName3 = Aspx.DapperAccessBase
-		SccLocalPath3 = Aspx.DapperAccessBase
-		SccProjectUniqueName4 = Aspx.DataAccess\\Aspx.DataAccess.csproj
-		SccProjectTopLevelParentUniqueName4 = Aspx.sln
-		SccProjectName4 = Aspx.DataAccess
-		SccLocalPath4 = Aspx.DataAccess
-		SccProjectUniqueName5 = Aspx.DataAccessBase\\Aspx.DataAccessBase.csproj
-		SccProjectTopLevelParentUniqueName5 = Aspx.sln
-		SccProjectName5 = Aspx.DataAccessBase
-		SccLocalPath5 = Aspx.DataAccessBase
-		SccProjectUniqueName6 = Aspx.Factory\\Aspx.Factory.csproj
-		SccProjectTopLevelParentUniqueName6 = Aspx.sln
-		SccProjectName6 = Aspx.Factory
-		SccLocalPath6 = Aspx.Factory
-		SccProjectUniqueName7 = Aspx.IDAL\\Aspx.IDAL.csproj
-		SccProjectTopLevelParentUniqueName7 = Aspx.sln
-		SccProjectName7 = Aspx.IDAL
-		SccLocalPath7 = Aspx.IDAL
-		SccProjectUniqueName8 = Aspx.Model\\Aspx.Model.csproj
-		SccProjectTopLevelParentUniqueName8 = Aspx.sln
-		SccProjectName8 = Aspx.Model
-		SccLocalPath8 = Aspx.Model
-		SccProjectUniqueName9 = WebPortalAdmin\\WebPortalAdmin.csproj
-		SccProjectTopLevelParentUniqueName9 = Aspx.sln
-		SccProjectName9 = WebPortalAdmin
-		SccLocalPath9 = WebPortalAdmin
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|Mixed Platforms = Debug|Mixed Platforms

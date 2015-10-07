@@ -50,6 +50,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ILike.cs" />
     <Compile Include="IQuestion.cs" />
     <Compile Include="IOption.cs" />
     <Compile Include="ILMRec.cs" />

@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="BllBase.cs" />
     <Compile Include="BllExample.cs" />
+    <Compile Include="BllLike.cs" />
     <Compile Include="BllOption.cs" />
     <Compile Include="BllLMRec.cs" />
     <Compile Include="BllLM.cs" />

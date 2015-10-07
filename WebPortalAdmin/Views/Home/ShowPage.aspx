@@ -122,6 +122,20 @@
         </div>
     </div>
     <%} %>
+
+                    <asp:Panel ID="Panel1" runat="server" Height="70px">
+        </asp:Panel>
+
+
+              <a id="p1" style="position: fixed; bottom:0px; width: 100%; height: 50px; left: 6px; background:white; color: #000000; font-style: italic;">
+        &nbsp; Do you like this lesslet?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <button ID="hide" type="button" onclick="like()" style="color: #000000; font-style: normal">Like</button>
+                    &nbsp;&nbsp;
+            <button ID="hide1" type="button" onclick=dislike()>Dislike</button> 
+                    &nbsp;&nbsp;
+            <button ID="hide2" type="button" onclick=nocomment()>No comment</button>
+                         </a>
+
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="UrlContent" runat="server">
     <link href="../Content/accordion/css/zzsc.css" rel="stylesheet" type="text/css" />
@@ -201,6 +215,42 @@
             });
         });
     </script>
+
+        <script type="text/javascript">
+        $(document).ready(function () {
+            $("#hide").click(function () {
+                $.ajax({
+                    type: 'GET', //i changed this because it actually probably better suits the nature of your request
+                    url: '../Home/Like',
+                    cache: false, //(probably)
+                    dataType: 'json', //(probably)
+
+                });
+                $("a").hide();
+            });
+            $("#hide1").click(function () {
+                $.ajax({
+                    type: 'GET', //i changed this because it actually probably better suits the nature of your request
+                    url: '../Home/DisLike',
+                    cache: false, //(probably)
+                    dataType: 'json', //(probably)
+
+                });
+                $("a").hide();
+            });
+            $("#hide2").click(function () {
+                $.ajax({
+                    type: 'GET', //i changed this because it actually probably better suits the nature of your request
+                    url: '../Home/NoComment',
+                    cache: false, //(probably)
+                    dataType: 'json', //(probably)
+
+                });
+                $("a").hide();
+            });
+        });
+</script>
+
     <script language="javascript" type="text/javascript">
         function ShowAnsource() {
             document.getElementById("ansource").setAttribute("style", "display:block");

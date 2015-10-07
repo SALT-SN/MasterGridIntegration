@@ -32,6 +32,12 @@ namespace Aspx.Factory
             return (IOption)Assembly.Load(path).CreateInstance(className);
         }
 
+        public static ILike CreateLike()
+        {
+            string className = path + ".LikeDAL";
+            return (ILike)Assembly.Load(path).CreateInstance(className);
+        }
+
         public static IQuestion CreateQuestion()
         {
             string className = path + ".QuestionDAL";

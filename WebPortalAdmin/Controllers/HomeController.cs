@@ -48,7 +48,78 @@ namespace WebPortalAdmin.Controllers
           
         }
 
+        [HttpGet]
+        public ActionResult Like()
+        {
+            int lmid14 = Convert.ToInt32(Session["lmii"]);
+            var sid14 = Session["ss"];
+            var uid14 = Session["uu"];
+            var gid14 = Session["gg"];
+            ModLike mode24 = new ModLike();
+            mode24.lmid = lmid14;
+            mode24.sid = sid14.ToString();
+            mode24.uid = uid14.ToString();
+            mode24.gid = gid14.ToString();
+            mode24.iflike = "1";
+            mode24.recdate = DateTime.Now.ToLocalTime().ToString();
+            var a = new BllLike().Insert(mode24);
+            String cc3 = "http://adapt2.sis.pitt.edu/cbum/um?app=37&act=" + lmid14 + "&iflike=" + mode24.iflike + "&usr=" + mode24.uid + "&grp=" + mode24.gid + "&sid=" + mode24.sid + "&res=-1&svc=" + mode24.recdate;
+            HttpWebResponse rs = (HttpWebResponse)HttpWebRequest.Create(cc3.ToString()).GetResponse();
+            // Response.Write("<script language='javascript'>window.open('" + cc + "');</script>");
+            /*Process ps3 = new Process();
+            Process.Start(cc3);*/
+            return null;
 
+        }
+
+
+        [HttpGet]
+        public ActionResult DisLike()
+        {
+            int lmid14 = Convert.ToInt32(Session["lmii"]);
+            var sid14 = Session["ss"];
+            var uid14 = Session["uu"];
+            var gid14 = Session["gg"];
+            ModLike mode24 = new ModLike();
+            mode24.lmid = lmid14;
+            mode24.sid = sid14.ToString();
+            mode24.uid = uid14.ToString();
+            mode24.gid = gid14.ToString();
+            mode24.iflike = "-1";
+            mode24.recdate = DateTime.Now.ToLocalTime().ToString();
+            var a = new BllLike().Insert(mode24);
+            String cc3 = "http://adapt2.sis.pitt.edu/cbum/um?app=37&act=" + lmid14 + "&iflike=" + mode24.iflike + "&usr=" + mode24.uid + "&grp=" + mode24.gid + "&sid=" + mode24.sid + "&res=-1&svc=" + mode24.recdate;
+            HttpWebResponse rs = (HttpWebResponse)HttpWebRequest.Create(cc3.ToString()).GetResponse();
+            // Response.Write("<script language='javascript'>window.open('" + cc + "');</script>");
+            /*Process ps3 = new Process();
+            Process.Start(cc3);*/
+            return null;
+
+        }
+
+        [HttpGet]
+        public ActionResult NoComment()
+        {
+            int lmid14 = Convert.ToInt32(Session["lmii"]);
+            var sid14 = Session["ss"];
+            var uid14 = Session["uu"];
+            var gid14 = Session["gg"];
+            ModLike mode24 = new ModLike();
+            mode24.lmid = lmid14;
+            mode24.sid = sid14.ToString();
+            mode24.uid = uid14.ToString();
+            mode24.gid = gid14.ToString();
+            mode24.iflike = "0";
+            mode24.recdate = DateTime.Now.ToLocalTime().ToString();
+            var a = new BllLike().Insert(mode24);
+            String cc3 = "http://adapt2.sis.pitt.edu/cbum/um?app=37&act=" + lmid14 + "&iflike=" + mode24.iflike + "&usr=" + mode24.uid + "&grp=" + mode24.gid + "&sid=" + mode24.sid + "&res=-1&svc=" + mode24.recdate;
+            HttpWebResponse rs = (HttpWebResponse)HttpWebRequest.Create(cc3.ToString()).GetResponse();
+            // Response.Write("<script language='javascript'>window.open('" + cc + "');</script>");
+            /*Process ps3 = new Process();
+            Process.Start(cc3);*/
+            return null;
+
+        }
 
         [HttpGet]
         public ActionResult Test()
@@ -77,46 +148,27 @@ namespace WebPortalAdmin.Controllers
         [HttpGet]
         public ActionResult Dess()
         {
-            int lmid = Convert.ToInt32(Request["lmid"] == null ? "" : Request["lmid"]);
-            String sid = Request["sid"] == null ? "0" : Request["sid"];
-            String gid = Request["grp"] == null ? "0" : Request["grp"];
-            String uid = Request["usr"] == null ? "0" : Request["usr"];
-            Session["ss"] = sid;
-            Session["uu"] = uid;
-            Session["gg"] = gid;
-            Session["lmii"] = lmid;
-            /*if (lmid == 0)
-            {
-                return View("lmid can't be empty");
-            }*/
+            int lmid1 = Convert.ToInt32(Session["lmii"]);
+            var sid1 = Session["ss"];
+            var uid1 = Session["uu"];
+            var gid1 = Session["gg"];
+            ModLMRec mode2 = new ModLMRec();
+            mode2.lmid = lmid1;
+            mode2.sid = sid1.ToString();
+            mode2.uid = uid1.ToString();
+            mode2.gid = gid1.ToString();
+            mode2.ifsucceed = "description";
 
-            var view = new BllLM().getMode(lmid);
-            ModLMRec mode = new ModLMRec();
-            mode.lmid = lmid;
-            mode.sid = sid;
-            mode.uid = uid;
-            mode.gid = gid;
-            String status = "";
-            if (view.lm != null)
-            {
-                mode.ifsucceed = "s";
-                status = "description";
-            }
-            else
-            {
-                mode.ifsucceed = "u";
-                status = "UnSucceed";
-            }
-            mode.recdate = DateTime.Now.ToLocalTime().ToString();
-            var a = new BllLMRec().Insert(mode);
-
-            String cc = "http://adapt2.sis.pitt.edu/cbum/um?app=37&act=" + mode.lmid + "&sub=" + lmid + "_" + status + "&usr=" + mode.uid + "&grp=" + mode.gid + "&sid=" + mode.sid + "&svc=" +"m";
+            mode2.recdate = DateTime.Now.ToLocalTime().ToString();
+            var a = new BllLMRec().Insert(mode2);
+            
+            String cc5 = "http://adapt2.sis.pitt.edu/cbum/um?app=37&act=" + mode2.lmid + "&sub=" + lmid1 + "_" + mode2.ifsucceed + "&usr=" + mode2.uid + "&grp=" + mode2.gid + "&sid=" + mode2.sid + "&svc=" +"m";
 
             // Response.Write("<script language='javascript'>window.open('" + cc + "');</script>");
             //Process ps2 = new Process();
             // Process.Start(cc);
             //Windows.System.Launcher.LaunchUriAsync(new Uri(cc));
-            HttpWebResponse rs = (HttpWebResponse)HttpWebRequest.Create(cc.ToString()).GetResponse();
+            HttpWebResponse rs = (HttpWebResponse)HttpWebRequest.Create(cc5.ToString()).GetResponse();
 
             return null;
 
@@ -235,9 +287,9 @@ namespace WebPortalAdmin.Controllers
                 float d = (float)RightNum / 100;
                 int result = bll.Insert(model);
                 String cc2 = "http://adapt2.sis.pitt.edu/cbum/um?app=37&act=" + model.qid + "&sub=" + lmid + "_test" + "&grp=" + gg + "&usr=" + model.uid + "&sid=" + model.date + "&res="+ d +"&svc=" + "m";
-               //Process ps = new Process();
-              // Process.Start(cc2);
-                HttpWebResponse rs = (HttpWebResponse)HttpWebRequest.Create(cc2.ToString()).GetResponse();
+               Process ps = new Process();
+              Process.Start(cc2);
+               // HttpWebResponse rs = (HttpWebResponse)HttpWebRequest.Create(cc2.ToString()).GetResponse();
                // Response.Write("<script language='javascript'>window.open('" + cc2 + "');</script>");
                 if (result>0)
                 {
