@@ -9,7 +9,9 @@
       { %>
     <div id="firstpane" class="menu_list">
         <p class="menu_head current" onclick=dess()>
-            Description</p>
+            Description
+            <b style="display:none" class="fa fa-thumbs-up"></b>
+        </p>
         <div style="display: block" class="menu_body">
             <div style="text-align: left; font-weight: bold; font-size: 20px;padding:10px;">
                 <div style="display: inline">
@@ -127,14 +129,14 @@
         </asp:Panel>
 
 
-              <a id="p1" style="position: fixed; bottom:0px; width: 100%; height: 50px; left: 6px; background:white; color: #000000; font-style: italic;">
+              <i id="p1" style="position: fixed; bottom:0px; width: 100%; height: 50px; left: 6px; background:white; color: #000000; font-style: italic;">
         &nbsp; Do you like this lesslet?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <button ID="hide" type="button" onclick="like()" style="color: #000000; font-style: normal">Like</button>
                     &nbsp;&nbsp;
             <button ID="hide1" type="button" onclick=dislike()>Dislike</button> 
                     &nbsp;&nbsp;
             <button ID="hide2" type="button" onclick=nocomment()>No comment</button>
-                         </a>
+                         </i>
 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="UrlContent" runat="server">
@@ -204,8 +206,8 @@
                             dataType: "json",
                             data: { RightNum: RightNum, lmid: lmid },
                             success: function (result) {
-                                top.bootbox.alert("Delete!");
-                                Refrush();
+                                //top.bootbox.alert("Delete!");
+                                //Refrush();
                             },
                             error: function () {
                             }
@@ -226,7 +228,8 @@
                     dataType: 'json', //(probably)
 
                 });
-                $("a").hide();
+                $("i").hide();
+                $("b").hide();
             });
             $("#hide1").click(function () {
                 $.ajax({
@@ -236,7 +239,7 @@
                     dataType: 'json', //(probably)
 
                 });
-                $("a").hide();
+                $("i").hide();
             });
             $("#hide2").click(function () {
                 $.ajax({
@@ -246,7 +249,7 @@
                     dataType: 'json', //(probably)
 
                 });
-                $("a").hide();
+                $("i").hide();
             });
         });
 </script>

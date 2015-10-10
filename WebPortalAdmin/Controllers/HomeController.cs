@@ -306,7 +306,7 @@ namespace WebPortalAdmin.Controllers
                 json.success = false;
                 json.msg = "Error：" + ex.Message;
             }
-            return Json(json);
+            return Json(json, JsonRequestBehavior.AllowGet);
         }
  
     }

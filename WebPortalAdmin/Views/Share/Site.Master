@@ -8,6 +8,7 @@
     <!--引用资源-->
     <link href="/SALT_MG2/Content/bootstrap/CSS/bootstrap.css" rel="stylesheet" type="text/css" />
     <link href="/SALT_MG2/Content/bootstrap/CSS/font.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <!--引用资源-->
     <script src="../Content/bootstrap/JS/jquery.min.js" type="text/javascript"></script>
     <script src="../Content/bootstrap/JS/bootstrap.js" type="text/javascript"></script>
