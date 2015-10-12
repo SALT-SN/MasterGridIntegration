@@ -158,9 +158,9 @@
 
             $("#submitTest").click(function (val) {
                 
-                top.bootbox.confirm("Sure To Submit?", function (result) {
-                    document.getElementById("ansource");
-                    if (result) {
+               // top.bootbox.confirm("Sure To Submit?", function (result) {
+                   // document.getElementById("ansource");
+                    //if (result) {
                         var attributeTable = $("#TestAttributes").find('table');
                         var RightNum = 0;
                         var lmid = 0;
@@ -212,8 +212,8 @@
                             error: function () {
                             }
                         });
-                    }
-                });
+                    
+                
             });
         });
     </script>
