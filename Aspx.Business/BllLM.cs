@@ -36,8 +36,16 @@ namespace Aspx.Business
 
             //search Test
             view.QuestionList = new BllQuestion().QueryAll(lmid);
-            
+            try
+            {
+                view.Like = new BllLike().QueryAll1(lmid);
+            }
+            catch
+            {
+
+            }
             return view;
+           
         }
 
 

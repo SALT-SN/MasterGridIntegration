@@ -225,10 +225,12 @@ namespace WebPortalAdmin.Controllers
                 ViewData["lmname"] = "";//topic
                 ViewData["lmdes"] = "";//content
                 ViewData["edes"] = "";//
+                ViewData["Like"] = "";//
                 if (view.lm != null)
                 {
                     ViewData["lmname"] = view.lm.lmname;
                     ViewData["lmdes"] = view.lm.lmdes;
+                    ViewData["Like"] = view.Like;
                 }
                 if (view.Example != null)
                 {

@@ -8,5 +8,6 @@ namespace Aspx.IDAL
 {
     public interface ILike : IBaseDAL<ModLike>
     {
+        String QueryAll1(int lmid);
     }
 }

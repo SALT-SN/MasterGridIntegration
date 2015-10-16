@@ -9,8 +9,9 @@
       { %>
     <div id="firstpane" class="menu_list">
         <p class="menu_head current" onclick=dess()>
-            Description
-            <b style="display:none" class="fa fa-thumbs-up"></b>
+            Description &nbsp&nbsp&nbsp
+            <span class="glyphicon glyphicon-thumbs-up"></span>
+            <%= ViewData["Like"]%>
         </p>
         <div style="display: block" class="menu_body">
             <div style="text-align: left; font-weight: bold; font-size: 20px;padding:10px;">
@@ -228,8 +229,8 @@
                     dataType: 'json', //(probably)
 
                 });
-                $("i").hide();
-                $("b").hide();
+                $("#p1").hide();
+                
             });
             $("#hide1").click(function () {
                 $.ajax({
@@ -239,7 +240,7 @@
                     dataType: 'json', //(probably)
 
                 });
-                $("i").hide();
+                $("#p1").hide();
             });
             $("#hide2").click(function () {
                 $.ajax({
@@ -249,7 +250,7 @@
                     dataType: 'json', //(probably)
 
                 });
-                $("i").hide();
+                $("#p1").hide();
             });
         });
 </script>

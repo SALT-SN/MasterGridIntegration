@@ -16,7 +16,7 @@ namespace Aspx.Model
         /// Demo
         /// </summary>
         public ModExample Example { get; set; }
-
+        public String Like { get; set; }
         /// <summary>
         /// QuestionList
         /// </summary>

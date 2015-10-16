@@ -19,6 +19,10 @@ namespace Aspx.Business
             CurrentDAL = DAL;
         }
 
+        public String QueryAll1(int lmid)
+        {
+            return DAL.QueryAll1(lmid);
+        }
 
 
     }
